@@ -1,6 +1,6 @@
 # Chennai's Sushi
 
-Welcome to **Chennai's Sushi** – a modern and stylish sushi restaurant website, designed to provide customers with an elegant and seamless browsing experience. This project is built using **React** and **Tailwind CSS** to ensure a fast, responsive, and visually appealing interface.
+Welcome to **Chennai's Sushi** – a modern and stylish sushi restaurant website, designed to provide customers with an elegant and seamless browsing experience..
 
 ## Features
 - **Home Page** – A beautifully designed landing page with high-quality images and engaging content.
@@ -10,11 +10,7 @@ Welcome to **Chennai's Sushi** – a modern and stylish sushi restaurant website
 - **Contact Page** – Get in touch via a contact form, phone, or location details.
 - **Responsive Design** – Fully optimized for mobile, tablet, and desktop devices.
 
-## Technologies Used
-- **React.js** – Frontend framework for a dynamic and fast experience.
-- **Tailwind CSS** – Utility-first CSS framework for styling.
-- **Vite** – Fast build tool for React applications.
-- **Git & GitHub** – Version control and collaboration.
+
 
 ## Installation & Setup
 To run this project locally, follow these steps:
